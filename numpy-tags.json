@@ -1,0 +1,302 @@
+[
+    {
+        "name": "with_maskna",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/with_maskna",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/with_maskna",
+        "commit": {
+            "sha": "651ef74c4ebe7d24e727fd444b1985117ef16fae",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/651ef74c4ebe7d24e727fd444b1985117ef16fae"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy93aXRoX21hc2tuYQ=="
+    },
+    {
+        "name": "v1.24.0.dev0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.24.0.dev0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.24.0.dev0",
+        "commit": {
+            "sha": "08e6510daf37e0317ab72f3ab48464ba522f96a6",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/08e6510daf37e0317ab72f3ab48464ba522f96a6"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yNC4wLmRldjA="
+    },
+    {
+        "name": "v1.23.1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.1",
+        "commit": {
+            "sha": "1f82da745496092d85b402b1703877462a7c2de2",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/1f82da745496092d85b402b1703877462a7c2de2"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4x"
+    },
+    {
+        "name": "v1.23.0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.0",
+        "commit": {
+            "sha": "54c52f13713f3d21795926ca4dbb27e16fada171",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/54c52f13713f3d21795926ca4dbb27e16fada171"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4w"
+    },
+    {
+        "name": "v1.23.0rc3",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.0rc3",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.0rc3",
+        "commit": {
+            "sha": "5c598ed6c78870a9d7c092f716c819ef48e5b8f4",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/5c598ed6c78870a9d7c092f716c819ef48e5b8f4"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4wcmMz"
+    },
+    {
+        "name": "v1.23.0rc2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.0rc2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.0rc2",
+        "commit": {
+            "sha": "6377d884d1e9bc2cbb8b0c4155521832a39bcfed",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/6377d884d1e9bc2cbb8b0c4155521832a39bcfed"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4wcmMy"
+    },
+    {
+        "name": "v1.23.0rc1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.0rc1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.0rc1",
+        "commit": {
+            "sha": "5726e6cec0dd2fd1d28c6258c89004887dc0f61a",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/5726e6cec0dd2fd1d28c6258c89004887dc0f61a"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4wcmMx"
+    },
+    {
+        "name": "v1.23.0.dev0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.23.0.dev0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.23.0.dev0",
+        "commit": {
+            "sha": "640fff6b33eb092319160b300b80bbbe3669cd35",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/640fff6b33eb092319160b300b80bbbe3669cd35"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMy4wLmRldjA="
+    },
+    {
+        "name": "v1.22.4",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.4",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.4",
+        "commit": {
+            "sha": "08772f91455db66810995db5e9d0671f91e027ed",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/08772f91455db66810995db5e9d0671f91e027ed"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi40"
+    },
+    {
+        "name": "v1.22.3",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.3",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.3",
+        "commit": {
+            "sha": "7d4349e332fcba2bc3f266267421531b3ec5d3e6",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/7d4349e332fcba2bc3f266267421531b3ec5d3e6"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4z"
+    },
+    {
+        "name": "v1.22.2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.2",
+        "commit": {
+            "sha": "f6dddcb2e5ea5ed39675f14429af3585c585a666",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/f6dddcb2e5ea5ed39675f14429af3585c585a666"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4y"
+    },
+    {
+        "name": "v1.22.1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.1",
+        "commit": {
+            "sha": "7ce4118531b585b5d8f0380c6b896ae22d93bd96",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/7ce4118531b585b5d8f0380c6b896ae22d93bd96"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4x"
+    },
+    {
+        "name": "v1.22.0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.0",
+        "commit": {
+            "sha": "4adc87dff15a247e417d50f10cc4def8e1c17a03",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/4adc87dff15a247e417d50f10cc4def8e1c17a03"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4w"
+    },
+    {
+        "name": "v1.22.0rc3",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.0rc3",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.0rc3",
+        "commit": {
+            "sha": "950f507d4c981a6a3292029936ac0277ab05840f",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/950f507d4c981a6a3292029936ac0277ab05840f"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4wcmMz"
+    },
+    {
+        "name": "v1.22.0rc2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.0rc2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.0rc2",
+        "commit": {
+            "sha": "0bbe78772c50db4fe3d1c5b8dbec439dc45c00ba",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/0bbe78772c50db4fe3d1c5b8dbec439dc45c00ba"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4wcmMy"
+    },
+    {
+        "name": "v1.22.0rc1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.0rc1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.0rc1",
+        "commit": {
+            "sha": "150c1233a717240998567d1cc58911701224ceb6",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/150c1233a717240998567d1cc58911701224ceb6"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4wcmMx"
+    },
+    {
+        "name": "v1.22.0.dev0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.22.0.dev0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.22.0.dev0",
+        "commit": {
+            "sha": "7aeb763c0cb7b2ada635e9e97b7b3b416f994a8c",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/7aeb763c0cb7b2ada635e9e97b7b3b416f994a8c"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMi4wLmRldjA="
+    },
+    {
+        "name": "v1.21.6",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.6",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.6",
+        "commit": {
+            "sha": "ef0ec786fd4c7622ad2fa0e54d3881f3b9bbd792",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/ef0ec786fd4c7622ad2fa0e54d3881f3b9bbd792"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS42"
+    },
+    {
+        "name": "v1.21.5",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.5",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.5",
+        "commit": {
+            "sha": "c3d0a09342c08c466984654bc4738af595fba896",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/c3d0a09342c08c466984654bc4738af595fba896"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS41"
+    },
+    {
+        "name": "v1.21.4",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.4",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.4",
+        "commit": {
+            "sha": "c0b003e9c787ccab27f6fe57c154d7b881da5795",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/c0b003e9c787ccab27f6fe57c154d7b881da5795"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS40"
+    },
+    {
+        "name": "v1.21.3",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.3",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.3",
+        "commit": {
+            "sha": "d4d0584ccb508cad69288b504e6c8b04aa0d5caf",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/d4d0584ccb508cad69288b504e6c8b04aa0d5caf"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4z"
+    },
+    {
+        "name": "v1.21.2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.2",
+        "commit": {
+            "sha": "2fe48d2d98a85c8ea3f3d5caffd952ea69e99335",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/2fe48d2d98a85c8ea3f3d5caffd952ea69e99335"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4y"
+    },
+    {
+        "name": "v1.21.1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.1",
+        "commit": {
+            "sha": "df6d2600c51502e1877aac563658d0616a75c5e5",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/df6d2600c51502e1877aac563658d0616a75c5e5"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4x"
+    },
+    {
+        "name": "v1.21.0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.0",
+        "commit": {
+            "sha": "b235f9e701e14ed6f6f6dcba885f7986a833743f",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/b235f9e701e14ed6f6f6dcba885f7986a833743f"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4w"
+    },
+    {
+        "name": "v1.21.0rc2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.0rc2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.0rc2",
+        "commit": {
+            "sha": "e40a0b2f152eb98f9ee75f7091f64e3998349492",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/e40a0b2f152eb98f9ee75f7091f64e3998349492"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4wcmMy"
+    },
+    {
+        "name": "v1.21.0rc1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.0rc1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.0rc1",
+        "commit": {
+            "sha": "5cbc5802f9835dd073d8a3a1d4fd34ddfb6b73e8",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/5cbc5802f9835dd073d8a3a1d4fd34ddfb6b73e8"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4wcmMx"
+    },
+    {
+        "name": "v1.21.0.dev0",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.21.0.dev0",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.21.0.dev0",
+        "commit": {
+            "sha": "a37b3a82f1abc3e73287883acfd2b06f88a09f13",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/a37b3a82f1abc3e73287883acfd2b06f88a09f13"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMS4wLmRldjA="
+    },
+    {
+        "name": "v1.20.3",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.20.3",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.20.3",
+        "commit": {
+            "sha": "27b98cbe0dd9d2969e9c227e7a2070aa56f41d6d",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/27b98cbe0dd9d2969e9c227e7a2070aa56f41d6d"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMC4z"
+    },
+    {
+        "name": "v1.20.2",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.20.2",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.20.2",
+        "commit": {
+            "sha": "b19ad5bfa396a4600a52a598a30a65d4e993f831",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/b19ad5bfa396a4600a52a598a30a65d4e993f831"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMC4y"
+    },
+    {
+        "name": "v1.20.1",
+        "zipball_url": "https://api.github.com/repos/numpy/numpy/zipball/refs/tags/v1.20.1",
+        "tarball_url": "https://api.github.com/repos/numpy/numpy/tarball/refs/tags/v1.20.1",
+        "commit": {
+            "sha": "d7aa4085623b222058edb0ff38392c38c5e00c54",
+            "url": "https://api.github.com/repos/numpy/numpy/commits/d7aa4085623b222058edb0ff38392c38c5e00c54"
+        },
+        "node_id": "MDM6UmVmOTA4NjA3OnJlZnMvdGFncy92MS4yMC4x"
+    }
+]

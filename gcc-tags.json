@@ -1,0 +1,302 @@
+[
+    {
+        "name": "releases/libgcj-2.95.1",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/libgcj-2.95.1",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/libgcj-2.95.1",
+        "commit": {
+            "sha": "4df0557e2f4f0c4074e52c0c28561b509cfd0a0a",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/4df0557e2f4f0c4074e52c0c28561b509cfd0a0a"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2xpYmdjai0yLjk1LjE="
+    },
+    {
+        "name": "releases/libgcj-2.95.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/libgcj-2.95.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/libgcj-2.95.0",
+        "commit": {
+            "sha": "b804cd8c33950c3b533f9d59d0f5433105657897",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/b804cd8c33950c3b533f9d59d0f5433105657897"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2xpYmdjai0yLjk1LjA="
+    },
+    {
+        "name": "releases/libf2c-0.5.22",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/libf2c-0.5.22",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/libf2c-0.5.22",
+        "commit": {
+            "sha": "d3ac81e45a08d9193daee60005dae0866a4ff0c2",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/d3ac81e45a08d9193daee60005dae0866a4ff0c2"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2xpYmYyYy0wLjUuMjI="
+    },
+    {
+        "name": "releases/libf2c-0.5.21",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/libf2c-0.5.21",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/libf2c-0.5.21",
+        "commit": {
+            "sha": "a0970b51b5ad062a0285e7d02dd397222fe97d77",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/a0970b51b5ad062a0285e7d02dd397222fe97d77"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2xpYmYyYy0wLjUuMjE="
+    },
+    {
+        "name": "releases/gcc-12.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-12.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-12.1.0",
+        "commit": {
+            "sha": "1ea978e3066ac565a1ec28a96a4d61eaf38e2726",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/1ea978e3066ac565a1ec28a96a4d61eaf38e2726"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMi4xLjA="
+    },
+    {
+        "name": "releases/gcc-11.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-11.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-11.3.0",
+        "commit": {
+            "sha": "2d280e7eafc086e9df85f50ed1a6526d6a3a204d",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/2d280e7eafc086e9df85f50ed1a6526d6a3a204d"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMS4zLjA="
+    },
+    {
+        "name": "releases/gcc-11.2.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-11.2.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-11.2.0",
+        "commit": {
+            "sha": "7ca388565af176bd4efd4f8db1e5e9e11e98ef45",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/7ca388565af176bd4efd4f8db1e5e9e11e98ef45"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMS4yLjA="
+    },
+    {
+        "name": "releases/gcc-11.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-11.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-11.1.0",
+        "commit": {
+            "sha": "50bc9185c2821350f0b785d6e23a6e9dcde58466",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/50bc9185c2821350f0b785d6e23a6e9dcde58466"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMS4xLjA="
+    },
+    {
+        "name": "releases/gcc-10.4.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-10.4.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-10.4.0",
+        "commit": {
+            "sha": "7ff47281ce4f3699185b06a3430968eac2a5b0c6",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/7ff47281ce4f3699185b06a3430968eac2a5b0c6"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMC40LjA="
+    },
+    {
+        "name": "releases/gcc-10.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-10.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-10.3.0",
+        "commit": {
+            "sha": "f00b5710a30f22efc3171c393e56aeb335c3cd39",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/f00b5710a30f22efc3171c393e56aeb335c3cd39"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMC4zLjA="
+    },
+    {
+        "name": "releases/gcc-10.2.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-10.2.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-10.2.0",
+        "commit": {
+            "sha": "ee5c3db6c5b2c3332912fb4c9cfa2864569ebd9a",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/ee5c3db6c5b2c3332912fb4c9cfa2864569ebd9a"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMC4yLjA="
+    },
+    {
+        "name": "releases/gcc-10.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-10.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-10.1.0",
+        "commit": {
+            "sha": "6e6e3f144a33ae504149dc992453b4f6dea12fdb",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/6e6e3f144a33ae504149dc992453b4f6dea12fdb"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy0xMC4xLjA="
+    },
+    {
+        "name": "releases/gcc-9.5.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-9.5.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-9.5.0",
+        "commit": {
+            "sha": "7a15b5060a83ea8282323d92043c6152e6a3e22d",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/7a15b5060a83ea8282323d92043c6152e6a3e22d"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy05LjUuMA=="
+    },
+    {
+        "name": "releases/gcc-9.4.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-9.4.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-9.4.0",
+        "commit": {
+            "sha": "13c83c4cc679ad5383ed57f359e53e8d518b7842",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/13c83c4cc679ad5383ed57f359e53e8d518b7842"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy05LjQuMA=="
+    },
+    {
+        "name": "releases/gcc-9.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-9.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-9.3.0",
+        "commit": {
+            "sha": "4212a6a3e44f870412d9025eeb323fd4f50a61da",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/4212a6a3e44f870412d9025eeb323fd4f50a61da"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy05LjMuMA=="
+    },
+    {
+        "name": "releases/gcc-9.2.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-9.2.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-9.2.0",
+        "commit": {
+            "sha": "a0c06cc27d2146b7d86758ffa236516c6143d62c",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/a0c06cc27d2146b7d86758ffa236516c6143d62c"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy05LjIuMA=="
+    },
+    {
+        "name": "releases/gcc-9.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-9.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-9.1.0",
+        "commit": {
+            "sha": "c8913260b0756f977ab5e6e6392c51a83657fffc",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/c8913260b0756f977ab5e6e6392c51a83657fffc"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy05LjEuMA=="
+    },
+    {
+        "name": "releases/gcc-8.5.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-8.5.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-8.5.0",
+        "commit": {
+            "sha": "eafe83f2f20ef0c1e7703c361ba314b44574523c",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/eafe83f2f20ef0c1e7703c361ba314b44574523c"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy04LjUuMA=="
+    },
+    {
+        "name": "releases/gcc-8.4.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-8.4.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-8.4.0",
+        "commit": {
+            "sha": "8cd3bffead2ed1d1998c190865694f920fbc93ab",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/8cd3bffead2ed1d1998c190865694f920fbc93ab"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy04LjQuMA=="
+    },
+    {
+        "name": "releases/gcc-8.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-8.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-8.3.0",
+        "commit": {
+            "sha": "4c44b708f11eec6fc02456e8577708d01ca92327",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/4c44b708f11eec6fc02456e8577708d01ca92327"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy04LjMuMA=="
+    },
+    {
+        "name": "releases/gcc-8.2.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-8.2.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-8.2.0",
+        "commit": {
+            "sha": "ddeb81e76461fc0075542d436dc962f3cf6fac92",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/ddeb81e76461fc0075542d436dc962f3cf6fac92"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy04LjIuMA=="
+    },
+    {
+        "name": "releases/gcc-8.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-8.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-8.1.0",
+        "commit": {
+            "sha": "406c2abec3f998e9064919b22db62f38a7c0e7b9",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/406c2abec3f998e9064919b22db62f38a7c0e7b9"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy04LjEuMA=="
+    },
+    {
+        "name": "releases/gcc-7.5.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-7.5.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-7.5.0",
+        "commit": {
+            "sha": "b2d961e7342b5ba4e57adfa81cb189b738d10901",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/b2d961e7342b5ba4e57adfa81cb189b738d10901"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy03LjUuMA=="
+    },
+    {
+        "name": "releases/gcc-7.4.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-7.4.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-7.4.0",
+        "commit": {
+            "sha": "adafdb1e7212d53a0ff4c58f0f42dc96200affbb",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/adafdb1e7212d53a0ff4c58f0f42dc96200affbb"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy03LjQuMA=="
+    },
+    {
+        "name": "releases/gcc-7.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-7.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-7.3.0",
+        "commit": {
+            "sha": "6184085fc664265dc78fd1ad4204c0cbef202628",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/6184085fc664265dc78fd1ad4204c0cbef202628"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy03LjMuMA=="
+    },
+    {
+        "name": "releases/gcc-7.2.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-7.2.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-7.2.0",
+        "commit": {
+            "sha": "586a0829dc38626ca27b79e5dd689fae32fc8ca8",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/586a0829dc38626ca27b79e5dd689fae32fc8ca8"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy03LjIuMA=="
+    },
+    {
+        "name": "releases/gcc-7.1.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-7.1.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-7.1.0",
+        "commit": {
+            "sha": "303f81ad7e9f278d5ea5a8bd4193ed9da76bc251",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/303f81ad7e9f278d5ea5a8bd4193ed9da76bc251"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy03LjEuMA=="
+    },
+    {
+        "name": "releases/gcc-6.5.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-6.5.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-6.5.0",
+        "commit": {
+            "sha": "e31ae982c446804d1b259554203401392b078364",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/e31ae982c446804d1b259554203401392b078364"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy02LjUuMA=="
+    },
+    {
+        "name": "releases/gcc-6.4.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-6.4.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-6.4.0",
+        "commit": {
+            "sha": "abaef5489e27672c45aa05f41ea7ed52f3fa2748",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/abaef5489e27672c45aa05f41ea7ed52f3fa2748"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy02LjQuMA=="
+    },
+    {
+        "name": "releases/gcc-6.3.0",
+        "zipball_url": "https://api.github.com/repos/gcc-mirror/gcc/zipball/refs/tags/releases/gcc-6.3.0",
+        "tarball_url": "https://api.github.com/repos/gcc-mirror/gcc/tarball/refs/tags/releases/gcc-6.3.0",
+        "commit": {
+            "sha": "91c632c88994dca583bcd94e39cd3eba1506ecfe",
+            "url": "https://api.github.com/repos/gcc-mirror/gcc/commits/91c632c88994dca583bcd94e39cd3eba1506ecfe"
+        },
+        "node_id": "MDM6UmVmMjI3MTE1MDM6cmVmcy90YWdzL3JlbGVhc2VzL2djYy02LjMuMA=="
+    }
+]

@@ -1,2 +1,0 @@
-scripts
-debian 11
